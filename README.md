@@ -1,8 +1,12 @@
 # Memory Hierarchy Simulator 🧠
 
-A comprehensive simulation of computer memory hierarchy designed for the **Computer Architecture** course. This project visualizes how data moves between CPU, Caches (L1, L2, L3), Main Memory (RAM), and Secondary Storage (Disk).
+> **Final Project for Computer Architecture Course**
+> *Isfahan University of Technology (IUT)*
+
+A comprehensive simulation of the computer memory hierarchy was designed and implemented as the final project for the **Computer Architecture** course. This tool visualizes how data moves between CPU, Caches (L1, L2, L3), Main Memory (RAM), and Secondary Storage (Disk).
 
 ## 🚀 Features
+...
 
 * **Multi-Level Cache Simulation:** Simulates L1, L2, and L3 caches with configurable sizes and latencies.
 * **Replacement Policies:** Includes 5 algorithms:
