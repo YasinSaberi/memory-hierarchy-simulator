@@ -35,11 +35,6 @@ A comprehensive simulation of computer memory hierarchy designed for the **Compu
     ```bash
     python main.py
     ```
-
-## 📸 Screenshots
-
-*(بعداً اینجا یک اسکرین‌شات جذاب از برنامه وقتی نمودارها را نشان می‌دهد بگذار)*
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
